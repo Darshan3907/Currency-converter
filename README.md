@@ -1,4 +1,4 @@
-# Currency-converter-
+# Currency-converter
 Currency converter | API | PYTHON | EXCHANERATE API
 
 A simple Python-based currency converter that uses real-time exchange rates from the [ExchangeRate-API](https://www.exchangerate-api.com/) to convert between global currencies.
